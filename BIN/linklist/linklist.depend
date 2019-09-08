@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546939971 source:c:\turboc3\bin\linklist\linklist2.c
+	<stdio.h>
+	<stdlib.h>
+
+1546874755 source:c:\turboc3\bin\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+
